@@ -5,7 +5,7 @@ public class Altbank {
         self.name = name
     }
     
-    func getName() -> String {
+    public func getName() -> String {
         return name
     }
 }
