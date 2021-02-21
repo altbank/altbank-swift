@@ -1,7 +1,7 @@
 public class Altbank {
     private let name: String
     
-    init(name: String) {
+    public init(name: String) {
         self.name = name
     }
     
